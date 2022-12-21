@@ -1,0 +1,85 @@
+@import url('https://fonts.cdnfonts.com/css/sassy');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Sassy";
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5vw;
+    height: 8vh;
+    padding-top: 2vh;
+    background-color: black;
+    font-size: min(1vw, 1rem);
+    color: fuchsia;
+    text-shadow: rgba(255, 255, 255, 0.6) 1px 1px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 85vh;
+    background: lightgray;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    width: 70%;
+    padding: 1vh;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 2vh;
+    height: 3vh;
+    background-color: black;
+    text-shadow: rgba(255, 255, 255, 0.6) 1px 1px;
+}
+
+.info-game {
+    font-size: min(1vw, 1rem);
+}
+
+a {
+    text-decoration: none;
+    color: fuchsia;
+    margin-bottom: 1vh;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 40vh;
+    width: max(10vw, 200px);
+}
+
+.info-name {
+    font-size: 1rem;
+    color: fuchsia;
+    text-shadow: rgba(0, 0, 0, 0.4) 1px 1px;
+    font-family: 'Sassy';
+}
+
+img {
+    width: 70%;
+    height: 70%;
+    object-fit: fill;
+    box-shadow: rgba(0, 0, 0, 0.7) 1px 1px 5px 5px;
+}
+
+.scores {
+    font-size: min(1vw, 1rem);
+    display: flex;
+    flex-direction: column;
+}
