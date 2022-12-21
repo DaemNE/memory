@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory/static/css/main.1e9f1b3b.css",
+    "main.js": "/memory/static/js/main.df322543.js",
+    "static/media/Ashley.jpeg": "/memory/static/media/Ashley.5e6075e617cbc73e38c5.jpeg",
+    "static/media/Joleen.jpeg": "/memory/static/media/Joleen.eeb22d9c24a816dca376.jpeg",
+    "static/media/Niko.jpeg": "/memory/static/media/Niko.a33ae55b5540e57fea74.jpeg",
+    "static/media/Veronica.jpeg": "/memory/static/media/Veronica.c3b3dd7aaf097f9761eb.jpeg",
+    "static/media/Kelly.jpeg": "/memory/static/media/Kelly.2b0b47f89f9a269ccb8d.jpeg",
+    "static/media/Alex.jpeg": "/memory/static/media/Alex.8f91d6654689df517d3f.jpeg",
+    "static/media/Sam.jpeg": "/memory/static/media/Sam.00db5039c9aae71f5794.jpeg",
+    "static/media/Mo.jpeg": "/memory/static/media/Mo.a9fa8d89aa8f0f026be1.jpeg",
+    "static/media/Jakke.jpeg": "/memory/static/media/Jakke.9535929e17567c301c18.jpeg",
+    "static/media/Simon.jpeg": "/memory/static/media/Simon.67b5e30d1cd2db5fd7f8.jpeg",
+    "static/media/Louise.jpeg": "/memory/static/media/Louise.843f70e00087593bafc5.jpeg",
+    "static/media/Nele.jpeg": "/memory/static/media/Nele.aed821e2c614f3d9a922.jpeg",
+    "index.html": "/memory/index.html",
+    "main.1e9f1b3b.css.map": "/memory/static/css/main.1e9f1b3b.css.map",
+    "main.df322543.js.map": "/memory/static/js/main.df322543.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e9f1b3b.css",
+    "static/js/main.df322543.js"
+  ]
+}
